@@ -1,6 +1,6 @@
 body{
     font-family: "Caveat", cursive;
-    background: greenyellow;
+    background:rgb(161, 161, 223);
     color: white;
     margin: 0px;
     margin-bottom: 100px;
@@ -15,5 +15,9 @@ body{
 
 }
 header{
-    
+    font-size: 40px;
+    color:white;
+    border-bottom: 3px solid white;
+    padding: 20px;
+
 }
